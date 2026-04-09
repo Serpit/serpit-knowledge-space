@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "a41c993bc19cc537",
+    "type": "split",
+    "children": [
+      {
+        "id": "e731e5753518fbb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "def378001af3477d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "x/你不知道的 Agent：原理、架构与工程实践.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "你不知道的 Agent：原理、架构与工程实践"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db1287c111599fbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d665312c106567be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0c86e9ea98a7450",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "147c74b17644b87b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8e7488b469eb4837",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "811a0961b1be064a",
+    "type": "split",
+    "children": [
+      {
+        "id": "370a2d846ee02798",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a9b4fa4963c3b9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "x/你不知道的 Agent：原理、架构与工程实践.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "你不知道的 Agent：原理、架构与工程实践 的反向链接列表"
+            }
+          },
+          {
+            "id": "3b781eb8ce4a5b95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "x/你不知道的 Agent：原理、架构与工程实践.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "你不知道的 Agent：原理、架构与工程实践 的出链列表"
+            }
+          },
+          {
+            "id": "aa20fcdec917fa46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "40d9ccd2fde88389",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ff5932a944eee1a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "x/你不知道的 Agent：原理、架构与工程实践.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "你不知道的 Agent：原理、架构与工程实践 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "def378001af3477d",
+  "lastOpenFiles": [
+    "@HiTw93.md",
+    "x/你不知道的 Agent：原理、架构与工程实践.md",
+    "x",
+    "Clippings"
+  ]
+}
