@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "x/你不知道的 Agent：原理、架构与工程实践.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "你不知道的 Agent：原理、架构与工程实践"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "x/你不知道的 Agent：原理、架构与工程实践.md",
+                "file": "CLAUDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "你不知道的 Agent：原理、架构与工程实践 的反向链接列表"
+              "title": "CLAUDE 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "x/你不知道的 Agent：原理、架构与工程实践.md",
+                "file": "CLAUDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "你不知道的 Agent：原理、架构与工程实践 的出链列表"
+              "title": "CLAUDE 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "x/你不知道的 Agent：原理、架构与工程实践.md",
+                "file": "CLAUDE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "你不知道的 Agent：原理、架构与工程实践 的大纲"
+              "title": "CLAUDE 的大纲"
             }
           }
         ]
@@ -185,9 +185,41 @@
   },
   "active": "def378001af3477d",
   "lastOpenFiles": [
-    "@HiTw93.md",
-    "x/你不知道的 Agent：原理、架构与工程实践.md",
-    "x",
-    "Clippings"
+    "wiki/entities/rickyshou.md",
+    "wiki/index.md",
+    "wiki/sources/Agent原理架构与工程实践.md",
+    "wiki/sources/AI正确的废话与Context突破.md",
+    "wiki/entities/Stripe.md",
+    "wiki/entities/Wise.md",
+    "wiki/entities/X平台.md",
+    "wiki/concepts/网络效应.md",
+    "wiki/analysis/AI时代的个人商业化路径.md",
+    "wiki/concepts/上下文工程.md",
+    "wiki/concepts/Harness工程.md",
+    "wiki/concepts/Ralph Loop.md",
+    "wiki/entities/小红书.md",
+    "wiki/concepts/渐进式披露.md",
+    "wiki/concepts/Agentic Engineering.md",
+    "wiki/concepts/AI变现.md",
+    "wiki/concepts/AI Agent.md",
+    "wiki/concepts/Consensus天花板.md",
+    "wiki/entities/Mem0.md",
+    "wiki/sources/Agentic Engineering工程革命.md",
+    "wiki/log.md",
+    "raw/认知重建之后，步入Agentic Engineering的工程革命.md",
+    "未命名",
+    "wiki/concepts/产品驱动增长（PLG）.md",
+    "raw/你不知道的 Agent：原理、架构与工程实践.md",
+    "CLAUDE.md",
+    "raw/llm-wiki-cn.md",
+    "wiki/sources",
+    "wiki/entities",
+    "wiki/concepts",
+    "wiki/analysis",
+    "wiki",
+    "raw/AI副业赚钱的10个路径.pdf",
+    "scripts/pdf_to_md.py",
+    "scripts",
+    "raw"
   ]
 }
