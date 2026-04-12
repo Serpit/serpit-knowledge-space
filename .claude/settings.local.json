@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(grep -E '\\\\.\\(md|txt\\)$')",
-      "Bash(node:*)"
+      "Bash(node:*)",
+      "Bash(git commit:*)"
     ]
   }
 }
