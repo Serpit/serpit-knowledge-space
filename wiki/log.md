@@ -1,5 +1,8 @@
 # 操作日志
 
+## [2026-04-21] ingest | Agent Memory 架构本质
+创建摘要页 [[Agent Memory架构本质]] `[5]`，概念页 [[Agent Memory]]，实体页 [[lencx]]。更新 [[Mem0]]（补充 lencx 的"管理链路缺失"批评，与鸭哥"蒸馏深度不够"构成两路同向的批评）。
+
 ## [2026-04-12] ingest | 认知重建之后，步入Agentic Engineering的工程革命
 创建摘要页 [[Agentic Engineering工程革命]]，概念页 [[Agentic Engineering]]、[[Ralph Loop]]、[[渐进式披露]]，实体页 [[rickyshou]]。更新 [[AI Agent]]、[[上下文工程]]、[[Harness工程]]。
 
